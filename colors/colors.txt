@@ -1,0 +1,10 @@
+#0A0A0A - Preto
+#0A292E - Ciano Escuro
+#223235 - Ciano Escuro Fraco
+#141212 - Marron Escuro
+#F9F9F9 - Branco
+#5C5C5A - Cinza
+#1F1F1F - Cinza Escuro
+#D1363A - Vermelho Fosco
+#111111 - Preto-Cinza
+#64615D - Cinza Claro
